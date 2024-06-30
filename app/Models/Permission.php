@@ -13,3 +13,4 @@ class Permission extends Model
         'description',
     ];
 }
+
